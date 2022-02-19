@@ -443,6 +443,9 @@ header .navbar ul li a:hover{
     .contact .row{
         margin-left:  -5px;
     }
+    .social{
+        margin-left: -4px;
+    }
 }
 
 
