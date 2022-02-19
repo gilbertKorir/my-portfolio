@@ -112,7 +112,7 @@ header .navbar ul li a:hover{
     position: fixed;
     top: 2rem ; right:2rem;
     background: #fff;
-    color: #fff;
+    color: magenta;
     cursor: pointer;
     font-size: 2.5rem;
     padding: 1rem 1.5rem;
@@ -377,10 +377,12 @@ header .navbar ul li a:hover{
     padding: 1rem 0;
     font-weight: normal;
 }
-.social{
+.social-full{
     margin-top: 10rem;
-    margin-left: 10rem;
 
+}
+#head{
+    margin: 0px 0px 20px -150px;
 }
 .social h3{
     font-size: 3rem;
@@ -445,6 +447,9 @@ header .navbar ul li a:hover{
     }
     .social{
         margin-left: -4px;
+    }
+    #head{
+        margin-left: 0px;
     }
 }
 
