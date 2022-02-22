@@ -191,6 +191,7 @@ header .navbar ul li a:hover{
     width: 20rem;
     background: #222;
     text-align: center;
+    border-radius: 20px;
     padding: 2rem;
     margin: 2rem;
 }
@@ -242,6 +243,7 @@ header .navbar ul li a:hover{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
+    text-transform: lowercase;
 }
 /* .education .box-container .box i{
     position: absolute;
@@ -281,6 +283,7 @@ header .navbar ul li a:hover{
 .certs .box-container .box p{
     color: #fff;
     font-size: 1.5rem;
+    text-transform: lowercase;
     padding: .8rem;
 }
 
@@ -322,6 +325,7 @@ header .navbar ul li a:hover{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
+    text-transform: lowercase;
 }
 .projects .box-container .box i{
     position: absolute;
