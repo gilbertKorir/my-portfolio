@@ -18,28 +18,7 @@
 
 <p><img src="https://github.com/100jared/my-portfolio/blob/master/img/demo.jpg" height="200px" width = "50%></p>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ ---
 
 ## Preview Device
 
