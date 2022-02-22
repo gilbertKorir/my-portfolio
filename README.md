@@ -5,13 +5,16 @@
 
 ## Table of Content
 
+<details>
+  <summary> Click here to see the table of contents</summary>
+
 + [Description](#description)
 + [Preview Device](#Preview)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
-
+</details>
 ## Description
 <p>This is my portfolio showing about, education, certification, projects and education.</p>
 
