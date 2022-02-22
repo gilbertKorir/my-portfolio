@@ -20,7 +20,7 @@
 
 <p>This is my portfolio showing about, education, certification, projects and education.</p>
 
-<p><img src="https://github.com/100jared/my-portfolio/blob/master/img/demo.jpg" height="200px" width = "50%"> </p>
+<p align="center"><img src="https://github.com/100jared/my-portfolio/blob/master/img/demo.jpg" height="300px" width = "50%"> </p>
   
  ---
 
