@@ -136,6 +136,7 @@ header .navbar ul li a:hover{
     text-align: center;
     padding-bottom: 80px;
     font-family: 'Italianno', cursive;
+    text-transform: lowercase;
 
 }
 .home h3{
