@@ -74,11 +74,12 @@ header{
     flex-flow: column;
 } 
 header .user img{
-    height: 17rem;
-    width: 17rem;
+    height: 16rem;
+    width: 16rem;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
+    margin-top: 3px;
     border: 4px solid magenta;
 }
 .name{
@@ -119,15 +120,23 @@ header .navbar ul li a:hover{
     z-index: 1000;
     display:none;
 }
-.home{
+ .home{
     display: flex;
     flex-flow: column;
     justify-content: center;
-    padding: 0 15rem;
+    padding: 0 5rem;
     background: url('/img/kl.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     
+}
+.home h4{
+    color: magenta;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 80px;
+    font-family: 'Italianno', cursive;
+
 }
 .home h3{
     font-size: 2.5rem;
@@ -148,7 +157,7 @@ header .navbar ul li a:hover{
     color: #eee;
     padding: 1rem 0;
     text-transform: lowercase;
-}
+} 
 .about .row{
     display: flex;
     align-items: center;
@@ -382,11 +391,11 @@ header .navbar ul li a:hover{
     font-weight: normal;
 }
 .social-full{
-    margin-top: 10rem;
+    margin-top: 7rem;
 
 }
 #head{
-    margin: 0px 0px 20px -150px;
+    margin: 0px 0px 0px -150px;
 }
 .social h3{
     font-size: 3rem;
@@ -399,7 +408,19 @@ header .navbar ul li a:hover{
     font-size: 2.5rem;
     color: blue;
 }
-
+.social-full h2{
+    text-align: center;
+    font-size: 25px;
+    color: magenta;
+    background-color: white;
+    margin-left: -150px;
+    height: 50px;
+    padding-top: 10px;
+    font-family: 'Delius Swash Caps', cursive;
+}
+.social-full h2 img{
+    color: red;
+}
 
 /* media for desktop */
 @media (max-width:1200px) {
@@ -454,6 +475,9 @@ header .navbar ul li a:hover{
     }
     #head{
         margin-left: 0px;
+    }
+    .social-full h2{
+        margin-left: 0;
     }
 }
 
