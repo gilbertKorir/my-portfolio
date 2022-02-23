@@ -5,21 +5,31 @@
 
 ## Table of Content
 
+<details>
+  <summary> Click here to see the table of contents</summary>
+
 + [Description](#description)
 + [Preview Device](#Preview)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
+</details>
 
 ## Description
+
 <p>This is my portfolio showing about, education, certification, projects and education.</p>
+
+<p align="center"><img src="https://github.com/100jared/my-portfolio/blob/master/img/demo.jpg" height="300px" width = "70%"> </p>
+  
+ ---
 
 ## Preview Device
 
 * View it with a computer,phone,tablet or an Ipad
 
 * Get connected to an internet.
+  
 * [Live link](https://100jared.github.io/my-portfolio/)
 
 [Back to the top](#my-portfolio)
