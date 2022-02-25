@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Indie+Flower&family=Italianno&family=Libre+Barcode+128+Text&family=Neonderthaw&family=Nunito:ital,wght@0,200;0,400;0,500;0,600;0,700;0,900;1,400;1,600;1,700;1,800;1,900&display=swap');
 :root{
     --yellow: magenta;
 }
@@ -85,10 +86,12 @@ header .user img{
 .name{
     font-size: 3.5rem;
     color: white;
+    font-family: 'Indie Flower', cursive;
 }
 .post{
     font-size: 2rem;
     color: #eee;
+    font-family: 'Indie Flower', cursive;
 }
 header .navbar {
     width: 100%;
