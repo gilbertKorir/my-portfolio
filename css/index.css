@@ -139,7 +139,7 @@ header .navbar ul li a:hover{
     text-align: center;
     padding-bottom: 80px;
     font-family: 'Italianno', cursive;
-    text-transform: lowercase;
+    text-transform: initial;
 
 }
 .home h3{
@@ -160,7 +160,7 @@ header .navbar ul li a:hover{
     font-size: 2rem;
     color: #eee;
     padding: 1rem 0;
-    text-transform: lowercase;
+    text-transform: initial;
 } 
 .about .row{
     display: flex;
@@ -186,7 +186,7 @@ header .navbar ul li a:hover{
     font-size: 1.5rem;
     margin-top: 10px;
     font-style: italic;
-    text-transform: lowercase;
+    text-transform:initial;
 }
 .about .row .info h3 span{
     color: #eee;
@@ -256,7 +256,7 @@ header .navbar ul li a:hover{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
-    text-transform: lowercase;
+    text-transform: initial;
 }
 /* .education .box-container .box i{
     position: absolute;
@@ -296,7 +296,7 @@ header .navbar ul li a:hover{
 .certs .box-container .box p{
     color: #fff;
     font-size: 1.5rem;
-    text-transform: lowercase;
+    text-transform: initial;
     padding: .8rem;
 }
 
@@ -338,7 +338,7 @@ header .navbar ul li a:hover{
     font-size: 1.4rem;
     color: #eee;
     padding-top: 1rem 0;
-    text-transform: lowercase;
+    text-transform: initial;
 }
 .projects .box-container .box i{
     position: absolute;
