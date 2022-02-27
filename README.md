@@ -30,7 +30,7 @@
 
 * Get connected to an internet.
   
-* [Live link](https://100jared.github.io/my-portfolio/)
+* Here is the Live link: https://100jared.github.io/my-portfolio/
 
 [Back to the top](#my-portfolio)
 
