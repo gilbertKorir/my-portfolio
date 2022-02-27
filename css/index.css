@@ -80,7 +80,7 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    margin-top: 3px;
+    margin-top: 20px;
     border: 4px solid magenta;
 }
 .name{
@@ -162,6 +162,10 @@ header .navbar ul li a:hover{
     padding: 1rem 0;
     text-transform: initial;
 } 
+.home i{
+    float: left;
+    margin-right: 10px;
+}
 .about .row{
     display: flex;
     align-items: center;
@@ -482,6 +486,7 @@ header .navbar ul li a:hover{
     }
     .social-full h2{
         margin-left: 0;
+        height: auto;
     }
 }
 
