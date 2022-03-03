@@ -10,3 +10,13 @@ $(document).ready(function(){
         $('header').removeClass('toggle');
     });
 });
+
+var email = document.getElementById("email").value;
+var formtxt = document.getElementById("form-text").value;
+
+function sendData(){
+    if(email == null|| formtxt == null){
+        alert("input data");
+    }
+
+}

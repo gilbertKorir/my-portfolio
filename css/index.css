@@ -371,6 +371,26 @@ header .navbar ul li a:hover{
     background-color: magenta;
     transform: scale(1.1);
 }
+.conme{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.contact-me{
+    margin-left: 90px;
+
+}
+#form-text{
+    height: 30px;
+}
+form{
+    background-color: whitesmoke;
+    font-size: 20px;
+    width: 300px;
+    height: auto;
+
+
+}
 .contact .row{
     display: flex;
     align-items: center;
@@ -487,6 +507,9 @@ header .navbar ul li a:hover{
     .social-full h2{
         margin-left: 0;
         height: auto;
+    }
+    form{
+        margin-left: -90px;
     }
 }
 
