@@ -31,13 +31,19 @@
 * Get connected to an internet.
   
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Here is the live link: https://100jared.github.io/my-portfolio/
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 689d9c2a57bfcbcc97a408eabd1646cbc9158f78
 * Here is the Live link: https://100jared.github.io/my-portfolio/
 =======
 * Here is the live link: https://100jared.github.io/my-portfolio/
 >>>>>>> 365c412a64b97f13aae3d0087d807f76b187f5b9
+<<<<<<< HEAD
+>>>>>>> 689d9c2a57bfcbcc97a408eabd1646cbc9158f78
+=======
 >>>>>>> 689d9c2a57bfcbcc97a408eabd1646cbc9158f78
 
 [Back to the top](#my-portfolio)
